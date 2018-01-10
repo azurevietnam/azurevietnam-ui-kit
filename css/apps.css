@@ -992,3 +992,15 @@
   padding-right: 0.5rem;
   padding-left: 0.5rem;
 }
+
+.footer {
+  margin-top: 6rem;
+  background-color: #343a40;
+  padding: 2rem 0;
+  color: #ffffff;
+}
+
+.footer span {
+  display: block;
+  text-align: center;
+}
